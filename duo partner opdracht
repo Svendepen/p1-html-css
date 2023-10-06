@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voorstel pagina</title>
+
+</head>
+<p>
+    <h1>Voorstel pagina</h1>
+    <h2>James</h2>
+    <img width="100" height="100" src="/james.jpg" alt="James">
+    <p>
+        Naam: James de Beer
+        <br>
+        Leeftijd: 16
+        <br>
+        Hobbys: sport en gamen
+        <br>
+        Family: ouder, broertje en zusje
+        <br>
+        Woonplaats: Spijkenisse
+        <br>
+        Waarom deze opleidig: omdat ik wou leren coderen
+        <br>
+        Wat zijn je doelen?: coderen
+        <br>
+        Wat ga je na deze opleiding doen?: coderen
+    </p>
+    <h6>img credit to Koen Radenborg <img width="10" height="10" src="/credit.jpg" alt="Koen Radenborg"></h6>    
+</p>
+</body>
+</html>
