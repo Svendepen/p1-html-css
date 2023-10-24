@@ -39,3 +39,21 @@ nav a {
 nav img {
   width: 5vw;
 }
+body {background-image: url(/P1-html-css-layout-main/img/background.jpeg);}
+body {background-size: cover;}
+body {background-position: ;}
+body {
+  background-repeat: no-repeat;
+  }
+  
+h1 {color: rgb(249, 248, 246);}
+h2 {color: darkorange;}
+h3 {color: darkorange;}
+h1 {
+   font-weight: bold;
+   } 
+h1 {
+    text-align: center;
+  }
+  
+    
