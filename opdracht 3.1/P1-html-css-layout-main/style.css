@@ -9,7 +9,12 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-family: "Goldman", cursive;
+  font-family: "Goldman", cursive; 
+  min-height: 200vh; 
+  position: relative ;
+  background-image: url(/P1-html-css-layout-main/img/background.jpeg);
+  background-size: cover;
+  background-position: ;  
 }
 
 nav {
@@ -22,6 +27,8 @@ nav {
   margin: auto;
   background: #00a8c7;
   justify-content: space-between;
+  position: fixed;
+  top:0
 }
 nav ul {
   display: flex;
@@ -39,7 +46,7 @@ nav a {
 nav img {
   width: 5vw;
 }
-body {background-image: url(/P1-html-css-layout-main/img/background.jpeg);}
+body {}
 body {background-size: cover;}
 body {background-position: ;}
 body {
@@ -54,6 +61,7 @@ h1 {
    } 
 h1 {
     text-align: center;
+
   }
   
     
